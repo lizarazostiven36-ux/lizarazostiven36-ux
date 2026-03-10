@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Stiven Lizarazo 👋
 
-<!--
-**lizarazostiven36-ux/lizarazostiven36-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Analista de Datos Junior apasionado por transformar datos en información útil para la toma de decisiones.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python (Pandas)
+- Google Sheets
+- Limpieza de datos
+- Análisis de datos
+- Visualización de datos
+
+## Proyectos
+
+🔹 **Análisis de ventas – Google Sheets**  
+Proyecto de análisis de ventas donde se realizó limpieza de datos, creación de tablas dinámicas y construcción de un dashboard para identificar los productos y ciudades con mayor rendimiento.
+
+🔹 **Limpieza y análisis de datos – Python**  
+Proyecto de limpieza y análisis exploratorio de datos utilizando Python y Pandas para identificar patrones y obtener insights a partir de datasets.
+
+## Herramientas
+
+- Python
+- Pandas
+- SQL
+- Google Sheets
+- Jupyter Notebook
+
+## Conecta conmigo
+
+💼 LinkedIn  
+https://www.linkedin.com/in/stiven-lizarazo-4b5177258/
+
+📧 Email  
+lizarazostiven36@gmail.com
