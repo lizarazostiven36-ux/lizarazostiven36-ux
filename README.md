@@ -1,41 +1,41 @@
 # Hola, soy Stiven Lizarazo 👋
-📊 Analista de Datos Junior apasionado por transformar datos en información útil para la toma de decisiones.
+
+📊 **Junior Data Analyst** | Power BI & SQL — Analizo comportamiento de clientes para ayudar a negocios a mejorar retención e ingresos.
 
 ## Habilidades
-* SQL
-* Python (Pandas)
-* Power BI
-* Microsoft Excel
-* Hojas de cálculo de Google
-* Limpieza de datos
-* Análisis de datos
-* Visualización de datos
 
-## Proyectos
-🔹 **Análisis de ventas – Google Sheets**
-Proyecto de análisis de ventas donde se realizó limpieza de datos, creación de tablas dinámicas y construcción de un tablero para identificar los productos y ciudades con mayor rendimiento.
+- SQL
+- Python (Pandas)
+- Power BI
+- Microsoft Excel
+- Hojas de cálculo de Google
+- Limpieza de datos
+- Análisis de datos
+- Visualización de datos
 
-🔹 **Limpieza y análisis de datos – Python**
-Proyecto de limpieza y análisis exploratorio de datos utilizando Python y Pandas para identificar patrones y obtener insights a partir de conjuntos de datos.
+## Proyectos destacados
 
-🔹 **Análisis de Embudo y Retención – MercadoLibre (SQL)**
-Análisis del recorrido del usuario y patrones de retención en MercadoLibre usando SQL. Incluye análisis de embudo de conversión por país, cohortes y tasas de retención D7, D14, D21 y D28.
+🔹 **[Análisis de Negocios de RappiPlus](https://github.com/lizarazostiven36-ux/rappiplus-business-analysis)** — Rentabilidad, funnel de conversión, retención por cohortes y test A/B para el servicio RappiPlus, con dashboard en Power BI.
 
-🔹 **Análisis de Servicio al Cliente – Power BI**
-Dashboard interactivo desarrollado en Power BI para analizar el rendimiento del servicio al cliente, medir satisfacción y evaluar el desempeño por área y asistente. Certificado por Daxus Latam.
+🔹 **[ConnectaTel — Análisis de Comportamiento de Clientes](https://github.com/lizarazostiven36-ux/connectatel-analysis)** — Segmentación de clientes de telecomunicaciones para identificar oportunidades de migración a planes Premium.
+
+🔹 **[Análisis de Embudo y Retención — MercadoLibre](https://github.com/lizarazostiven36-ux/mercadolibre-funnel-retention-analysis)** — Embudo de conversión y patrones de retención por cohortes (D7-D28) usando SQL.
 
 ## Herramientas
-* Python
-* Pandas
-* SQL
-* Power BI
-* Microsoft Excel
-* Hojas de cálculo de Google
-* Jupyter Notebook
+
+- Python
+- Pandas
+- SQL
+- Power BI
+- Microsoft Excel
+- Hojas de cálculo de Google
+- Jupyter Notebook
 
 ## Certificaciones
-🎓 Acelerador de Carrera con Power BI + IA – Daxus Latam (2026)
+
+🎓 Acelerador de Carrera con Power BI + IA — Daxus Latam (2026)
 
 ## Conecta conmigo
+
 💼 LinkedIn: https://www.linkedin.com/in/stiven-lizarazo-4b5177258/
 📧 Correo: lizarazostiven36@gmail.com
