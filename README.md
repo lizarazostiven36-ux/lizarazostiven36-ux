@@ -1,6 +1,6 @@
 # Hola, soy Stiven Lizarazo 👋
 
-📊 **Junior Data Analyst** | Power BI & SQL — Analizo comportamiento de clientes para ayudar a negocios a mejorar retención e ingresos.
+📊 **Analista de Datos Junior** | Python, SQL & Power BI — Transformo datos en decisiones claras, con foco en comportamiento de clientes, retención e ingresos.
 
 ## Habilidades
 
@@ -15,7 +15,7 @@
 
 ## Proyectos destacados
 
-🔹 **[Análisis de Negocios de RappiPlus](https://github.com/lizarazostiven36-ux/rappiplus-business-analysis)** — Rentabilidad, funnel de conversión, retención por cohortes y test A/B para el servicio RappiPlus, con dashboard en Power BI.
+🔹 **[Análisis de Negocios de RappiPlus](https://github.com/lizarazostiven36-ux/rappiplus-business-analysis)** — Rentabilidad, embudo de conversión, retención por cohortes y prueba A/B para el servicio RappiPlus, con tablero en Power BI.
 
 🔹 **[ConnectaTel — Análisis de Comportamiento de Clientes](https://github.com/lizarazostiven36-ux/connectatel-analysis)** — Segmentación de clientes de telecomunicaciones para identificar oportunidades de migración a planes Premium.
 
